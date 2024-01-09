@@ -167,5 +167,5 @@ The project follows a structured directory layout for better organization:
 
 ## Author
 
-- SHIVANI KUMARI
+- PRATYUSH AGRAWAL
 
